@@ -1,0 +1,6 @@
+{
+  "name": "도서관 공간 예약 시스템",
+  "description": "도서관 스터디룸 및 세미나실 시간 예약 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
